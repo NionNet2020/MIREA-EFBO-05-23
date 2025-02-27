@@ -1,0 +1,36 @@
+// Переменные
+$primary-color: #007bff;
+$hover-color: #0056b3;
+$font-family: 'Arial', sans-serif;
+
+// Основные стили
+body {
+  font-family: $font-family;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+.text-block {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+// Стили для кнопки
+button {
+  background-color: $primary-color;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $hover-color;
+  }
+}
