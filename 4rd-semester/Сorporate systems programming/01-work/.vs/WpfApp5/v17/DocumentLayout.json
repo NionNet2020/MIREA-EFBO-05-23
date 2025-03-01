@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abori\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\bookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:bookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\bookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:bookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\genrewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:genrewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\obj\\Debug\\net8.0-windows\\UserWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\UserWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\wpfapp5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:wpfapp5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\genrewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:genrewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|c:\\users\\nikon\\mirea-efbo-05-23\\4rd-semester\\\u0441orporate systems programming\\01-work\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC62880-A8E8-4402-B4DD-DF0AE7AD029B}|WpfApp5.csproj|solutionrelative:genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 114,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:46:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\abori\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\abori\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\abori\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\abori\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:43:57.468Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataContext.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\DataContext.cs",
+              "RelativeToolTip": "DataContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:22:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\BookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\BookWindow.xaml.cs",
+              "RelativeToolTip": "BookWindow.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwFwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:19:17.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:17:35.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\BookWindow.xaml",
+              "RelativeDocumentMoniker": "BookWindow.xaml",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\BookWindow.xaml",
+              "RelativeToolTip": "BookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T18:17:31.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\GenreWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GenreWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\GenreWindow.xaml.cs",
+              "RelativeToolTip": "GenreWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:10:15.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "UserWindow.xaml",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\UserWindow.xaml",
+              "RelativeToolTip": "UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T17:02:28.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\obj\\Debug\\net8.0-windows\\UserWindow.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\UserWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\obj\\Debug\\net8.0-windows\\UserWindow.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\UserWindow.g.i.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAApwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:44:59.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WpfApp5",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\WpfApp5.csproj",
+              "RelativeDocumentMoniker": "WpfApp5.csproj",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\WpfApp5.csproj",
+              "RelativeToolTip": "WpfApp5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T15:49:21.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\UserWindow.xaml.cs",
+              "RelativeToolTip": "UserWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:02:16.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\Genre.cs",
+              "RelativeDocumentMoniker": "Genre.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\Genre.cs",
+              "RelativeToolTip": "Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:02:08.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenreWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\GenreWindow.xaml",
+              "RelativeDocumentMoniker": "GenreWindow.xaml",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\GenreWindow.xaml",
+              "RelativeToolTip": "GenreWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T17:01:35.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T16:54:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAgwOwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:54:56.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "C:\\Users\\nikon\\MIREA-EFBO-05-23\\4rd-semester\\\u0421orporate systems programming\\01-work\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:46:55.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
